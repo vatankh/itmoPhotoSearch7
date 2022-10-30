@@ -8,20 +8,20 @@ for mac:<br/>
   1.git clone https://github.com/vatankh/itmoPhotoSearch7.git<br/>
   1.open pom.xml file<br/>
   2.go to      <br/>
-  "\<dependency>
-            \<groupId>org.openjfx</groupId>
-            \<artifactId>javafx-graphics </artifactId>
-            \<version>18</version>
-            \<classifier>win</classifier>
+  "\<dependency><br/>
+            \<groupId>org.openjfx</groupId><br/>
+            \<artifactId>javafx-graphics </artifactId><br/>
+            \<version>18</version><br/>
+            \<classifier>win</classifier><br/>
   \</dependency>"
   <br/>
   3.change win to mac so it becomes :<br/>
-    <dependency><br/>
-            <groupId>org.openjfx</groupId><br/>
-            <artifactId>javafx-graphics </artifactId><br/>
-            <version>18</version><br/>
-            <classifier>mac</classifier><br/>
-  </dependency><br/>
+    /<dependency><br/>
+            /<groupId>org.openjfx</groupId><br/>
+            /<artifactId>javafx-graphics </artifactId><br/>
+            /<version>18</version><br/>
+            /<classifier>mac</classifier><br/>
+  /</dependency><br/>
   4.run HelloApplication<br/>
 <br/>
   
