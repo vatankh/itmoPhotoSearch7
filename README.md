@@ -30,4 +30,4 @@ how it wokrs
 2.press search 
 3.finish 
 example |
-![alt text](https://github.com/vatankh/itmoPhotoSearch7/blob/main/example.jpeg?raw=true)
+![alt text](https://github.com/vatankh/itmoPhotoSearch7/blob/main/example.png?raw=true)
