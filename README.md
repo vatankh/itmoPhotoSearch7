@@ -1,7 +1,7 @@
 # itmoPhotoSearch7
 ----------------------
-setup
-for windows
+setup<br/>
+for windows<br/>
   1.git clone https://github.com/vatankh/itmoPhotoSearch7.git
   2.run HelloApplication
 for mac:
