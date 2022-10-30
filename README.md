@@ -9,18 +9,18 @@ for mac:<br/>
   1.open pom.xml file<br/>
   2.go to      <br/>
   "\<dependency><br/>
-            \<groupId>org.openjfx</groupId><br/>
-            \<artifactId>javafx-graphics </artifactId><br/>
-            \<version>18</version><br/>
-            \<classifier>win</classifier><br/>
+            \<groupId>org.openjfx\</groupId><br/>
+            \<artifactId>javafx-graphics \</artifactId><br/>
+            \<version>18\</version><br/>
+            \<classifier>win\</classifier><br/>
   \</dependency>"
   <br/>
   3.change win to mac so it becomes :<br/>
-    /<dependency><br/>
-            /<groupId>org.openjfx</groupId><br/>
-            /<artifactId>javafx-graphics </artifactId><br/>
-            /<version>18</version><br/>
-            /<classifier>mac</classifier><br/>
+    \<dependency><br/>
+            \<groupId>org.openjfx</groupId><br/>
+            \<artifactId>javafx-graphics </artifactId><br/>
+            \<version>18</version><br/>
+            \<classifier>mac</classifier><br/>
   /</dependency><br/>
   4.run HelloApplication<br/>
 <br/>
